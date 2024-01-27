@@ -1,1 +1,2 @@
-console.log ('olá mundo')
+alert ('olá mundo')
+  console.log ('olá mundo')
